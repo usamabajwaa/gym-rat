@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureSignalRConnectionString": "https://gym-rat.service.signalr.net;AccessKey=BUtHh32CIjtcvYTdyloXU5+JLlY+S6mnpV9IV4zfRLM=;Version=1.0;"
+  },
+  "ConnectionStrings": {}
+}
